@@ -1,0 +1,3 @@
+../../../../../../etc/passwd&=%3C%3C%3C%3C
+../../../administrator/inbox
+../../../../../../../dev
